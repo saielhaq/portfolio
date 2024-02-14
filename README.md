@@ -8,7 +8,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://cdn.discordapp.com/attachments/878483959464468520/1207402078708957304/image.png?ex=65df83d0&amp;is=65cd0ed0&amp;hm=09757a0b2722b1707169fbc4ea57d272b8f3dcbb50f06df9df0885037d0f408d&amp;" alt="project-screenshot" width="1920" height="400/">
+<img src="https://cdn.discordapp.com/attachments/878483959464468520/1207402078708957304/image.png?ex=65df83d0&amp;is=65cd0ed0&amp;hm=09757a0b2722b1707169fbc4ea57d272b8f3dcbb50f06df9df0885037d0f408d&amp;" alt="project-screenshot" width="1920">
 
   
 <h2>💻 Built with</h2>
