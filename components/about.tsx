@@ -19,24 +19,24 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-      While studying for an{" "}
-        <span className="font-medium">advanced technician</span> degree, I realized my passion for programming had always been a driving force. 
-        I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">I pursued my interest through online platforms, specializing in</span> 
+        While studying for an{" "}
+        <span className="font-medium">advanced technician</span> degree, I
+        realized my passion for programming had always been a driving force. I
+        enrolled in a coding bootcamp and learned{" "}
+        <span className="font-medium">front-end web development</span>.{" "}
+        <span className="italic">
+          I pursued my interest through online platforms, specializing in
+        </span>
         <span className="underline"> automation and web development</span>.{" "}
-         Solving complex problems in programming has always been my forte,
-         and I thrive on the satisfaction of finding solutions.{" "}
+        Solving complex problems in programming has always been my forte, and I
+        thrive on the satisfaction of finding solutions.{" "}
       </p>
 
-
-          
       <p>
         <span className="italic">When I'm not coding</span>, I enjoy playing
         video games, cooking, and training. I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
-        learning {" "}
-        <span className="font-medium">Portuguese language</span>. 
+        learning <span className="font-medium">Portuguese language</span>.
       </p>
     </motion.section>
   );
