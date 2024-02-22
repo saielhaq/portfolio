@@ -51,32 +51,27 @@ export const experiencesData = [
     icon: React.createElement(CgWorkAlt),
     date: "08/2023 - 08/2023",
   },
-
 ] as const;
 
 export const projectsData = [
   {
     title: "Sologement",
-    description:
-      "I developed a Clone of Airbnb.",
+    description: "I developed a Clone of Airbnb.",
     tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
     imageUrl: sologementImg,
   },
-
 ] as const;
 
 export const skillsData = [
   "HTML",
   "CSS",
   "JavaScript",
-  "TypeScript",
   "React",
   "Next.js",
-  "Node.js",
   "Git",
   "Tailwind",
-  "Prisma",
-  "MongoDB",
-  "PostgreSQL",
+  "Php",
+  "MySQL",
   "Python",
+  "VB.Net",
 ] as const;
