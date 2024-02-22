@@ -39,7 +39,7 @@ export const experiencesData = [
     title: "Internship",
     location: "Interpress",
     description:
-      "I developed a Leave Management System over six months, showcasing my expertise in front-end development.",
+      "I developed a Leave Management System over six months, showcasing my in front-end skills and building my back-end ones.",
     icon: React.createElement(CgWorkAlt),
     date: "03/2023 - 03/2023",
   },
@@ -47,7 +47,7 @@ export const experiencesData = [
     title: "Internship",
     location: "IBM",
     description:
-      "I collaborated with a team to design and develop a  security tools website, highlighting my teamwork and web development skills.",
+      "I collaborated with a team to design and develop a security tools website, highlighting my teamwork and front-end development skills.",
     icon: React.createElement(CgWorkAlt),
     date: "08/2023 - 08/2023",
   },
