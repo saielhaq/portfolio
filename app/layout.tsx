@@ -11,6 +11,19 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Saad | Personal Portfolio",
+  keywords: [
+    "saad sai el haq",
+    "saad",
+    "saad sai",
+    "sai el haq",
+    "saielhaq",
+    "saad saielhaq",
+    "Saad Sai El Haq",
+    "Saad Sai",
+    "Saad",
+    "Sai El Haq",
+    "Saielhaq",
+  ],
   description: "Saad is a full-stack developer with 3 years of experience.",
 };
 
