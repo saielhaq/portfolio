@@ -5,6 +5,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/corpcomment.png";
 import sologementImg from "@/public/sologement.png";
 import tms from "@/public/ttms.png";
+import valsens from "@/public/vansens.png";
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
 
@@ -52,20 +53,28 @@ export const experiencesData = [
     icon: React.createElement(CgWorkAlt),
     date: "08/2023 - 08/2023",
   },
+  {
+    title: "Internship",
+    location: "Abderrahmane Ibn Ghazala",
+    description:
+      "I created a tool that manages students end of studies' internships.",
+    icon: React.createElement(CgWorkAlt),
+    date: "06/2024 - 06/2024",
+  },
 ] as const;
 
 export const projectsData = [
-  {
-    title: "Sologement",
-    description: "I developed a Clone of Airbnb.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
-    imageUrl: sologementImg,
-  },
   {
     title: "TMS",
     description: "I developed Task Management System",
     tags: ["PHP", "JQuery", "MySQL", "Graph.js", "Bootstrap"],
     imageUrl: tms,
+  },
+  {
+    title: "Sensitivity finder for Valorant",
+    description: "I made a tool to help players find their perfect sensitivity",
+    tags: ["VueJs"],
+    imageUrl: valsens,
   },
 ] as const;
 
@@ -73,10 +82,9 @@ export const skillsData = [
   "HTML",
   "CSS",
   "JavaScript",
-  "React",
-  "Next.js",
+  "VueJs",
+  "Java",
   "Git",
-  "Tailwind",
   "PHP",
   "MySQL",
   "Python",
