@@ -5,7 +5,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/corpcomment.png";
 import sologementImg from "@/public/sologement.png";
 import tms from "@/public/ttms.png";
-import valsens from "@/public/vansens.png";
+import valsens from "@/public/valsens.png";
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
 
