@@ -61,6 +61,13 @@ export const experiencesData = [
     icon: React.createElement(CgWorkAlt),
     date: "06/2024 - 06/2024",
   },
+  {
+    title: "Application Architect Internship",
+    location: "IBM",
+    description: "I developed a Blood Donation Center Management System.",
+    icon: React.createElement(CgWorkAlt),
+    date: "08/2024 - Currently",
+  },
 ] as const;
 
 export const projectsData = [
@@ -81,12 +88,12 @@ export const projectsData = [
 export const skillsData = [
   "HTML",
   "CSS",
-  "JavaScript",
-  "VueJs",
+  "Javascript",
   "Java",
   "Git",
   "PHP",
   "MySQL",
   "Python",
-  "VB.Net",
+  "Angular",
+  "Spring Boot",
 ] as const;
