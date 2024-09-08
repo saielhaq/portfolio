@@ -96,4 +96,5 @@ export const skillsData = [
   "Python",
   "Angular",
   "Spring Boot",
+  "REST API",
 ] as const;
