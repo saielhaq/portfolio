@@ -64,7 +64,7 @@ export const experiencesData = [
   {
     title: "Fullstack Developer (internship)",
     location: "IBM",
-    description: "I developed a Blood Donation Center Management System.",
+    description: "I developed a Blood Donation Center Management System using Angular 18 and Springboot along with REST API.",
     icon: React.createElement(CgWorkAlt),
     date: "08/2024 - 09/2024",
   },
