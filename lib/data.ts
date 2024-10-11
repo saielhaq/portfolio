@@ -38,7 +38,7 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Internship",
+    title: "Fullstack Developer (internship)",
     location: "Interpress",
     description:
       "I developed a Leave Management System over six months, showcasing my in front-end skills and building my back-end ones.",
@@ -46,7 +46,7 @@ export const experiencesData = [
     date: "03/2023 - 03/2023",
   },
   {
-    title: "Internship",
+    title: "Fullstack Developer (internship)",
     location: "IBM",
     description:
       "I collaborated with a team to design and develop a security tools website, highlighting my teamwork and front-end development skills.",
@@ -54,7 +54,7 @@ export const experiencesData = [
     date: "08/2023 - 08/2023",
   },
   {
-    title: "Internship",
+    title: "Fullstack Developer (internship)",
     location: "Abderrahmane Ibn Ghazala",
     description:
       "I created a tool that manages students end of studies' internships.",
@@ -62,11 +62,11 @@ export const experiencesData = [
     date: "06/2024 - 06/2024",
   },
   {
-    title: "Application Architect Internship",
+    title: "Fullstack Developer (internship)",
     location: "IBM",
     description: "I developed a Blood Donation Center Management System.",
     icon: React.createElement(CgWorkAlt),
-    date: "08/2024 - Currently",
+    date: "08/2024 - 09/2024",
   },
 ] as const;
 
