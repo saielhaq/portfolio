@@ -11,6 +11,9 @@ import { Analytics } from "@vercel/analytics/react";
 
 const inter = Inter({ subsets: ["latin"] });
 
+export const dynamic = "force-static";
+export const revalidate = 86400; // revalidate every 24 hours
+
 export const metadata = {
   title: "Saad Sai El Haq | Full-Stack Developer Portfolio",
   keywords: [
@@ -43,10 +46,11 @@ export const metadata = {
     url: "https://saielhaqs.vercel.app",
     images: [
       {
-        url: "/og-image.jpg", // You'll need to add this image
+        url: "/saad.png",
         width: 1200,
         height: 630,
         alt: "Saad Sai El Haq - Full Stack Developer",
+        type: "image/jpeg",
       },
     ],
   },
