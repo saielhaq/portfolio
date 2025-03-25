@@ -1,7 +1,9 @@
+# *
 User-agent: *
 Allow: /
-Disallow: /api/
-Disallow: /_next/
-Disallow: /static/
 
+# Host
+Host: https://saielhaqs.vercel.app
+
+# Sitemaps
 Sitemap: https://saielhaqs.vercel.app/sitemap.xml
