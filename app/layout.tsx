@@ -12,7 +12,7 @@ import { Analytics } from "@vercel/analytics/react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Saad | Personal Portfolio",
+  title: "Saad Sai El Haq | Full-Stack Developer Portfolio",
   keywords: [
     "saad sai el haq",
     "saad",
@@ -25,8 +25,38 @@ export const metadata = {
     "Saad",
     "Sai El Haq",
     "Saielhaq",
+    "full stack developer",
+    "angular developer",
+    "spring boot developer",
+    "web developer",
+    "software engineer",
+    "portfolio",
+    "developer portfolio",
   ],
-  description: "Saad is a full-stack developer with 3 years of experience.",
+  description:
+    "Saad Sai El Haq is a full-stack developer with 3 years of experience specializing in Angular and Spring Boot development. View my projects, skills, and experience.",
+  openGraph: {
+    title: "Saad Sai El Haq | Full-Stack Developer Portfolio",
+    description:
+      "Full-stack developer with 3 years of experience specializing in Angular and Spring Boot",
+    type: "website",
+    url: "https://saielhaqs.vercel.app",
+    images: [
+      {
+        url: "/og-image.jpg", // You'll need to add this image
+        width: 1200,
+        height: 630,
+        alt: "Saad Sai El Haq - Full Stack Developer",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Saad Sai El Haq | Full-Stack Developer Portfolio",
+    description:
+      "Full-stack developer with 3 years of experience specializing in Angular and Spring Boot",
+    images: ["/og-image.jpg"], // Same image as OpenGraph
+  },
 };
 
 export default function RootLayout({
