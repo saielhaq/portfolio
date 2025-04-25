@@ -6,6 +6,7 @@ import corpcommentImg from "@/public/corpcomment.png";
 import sologementImg from "@/public/sologement.png";
 import tms from "@/public/ttms.png";
 import valsens from "@/public/valsens.png";
+import bloodchain from "@/public/bloodchain.jpg";
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
 
@@ -64,9 +65,10 @@ export const experiencesData = [
   {
     title: "Fullstack Developer (internship)",
     location: "IBM",
-    description: "I developed a Blood Donation Center Management System using Angular 18 and Springboot along with REST API.",
+    description:
+      "I developed a Blood Donation Center Management System using Angular 18 and Springboot along with REST API.",
     icon: React.createElement(CgWorkAlt),
-    date: "08/2024 - 09/2024",
+    date: "08/2024 - 10/2024",
   },
 ] as const;
 
@@ -82,6 +84,13 @@ export const projectsData = [
     description: "I made a tool to help players find their perfect sensitivity",
     tags: ["VueJs"],
     imageUrl: valsens,
+  },
+  {
+    title: "Blood Donation Center Management System",
+    description:
+      "A comprehensive system for managing blood donation processes and donor information.",
+    tags: ["Angular", "Spring Boot", "JWT"],
+    imageUrl: bloodchain,
   },
 ] as const;
 
